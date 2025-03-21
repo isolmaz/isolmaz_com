@@ -1,6 +1,6 @@
-# Personal Portfolio Website
+# Personal One page Website
 
-A clean, minimalist, and modern portfolio website with smooth animations and responsive design.
+A clean, minimalist, and modern one page website with smooth animations and responsive design.
 
 ## Features
 
